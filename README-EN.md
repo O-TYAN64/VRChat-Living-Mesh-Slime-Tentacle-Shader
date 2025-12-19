@@ -1,7 +1,6 @@
 # LivingMesh_SlimeTentacle V1.1  
 ### Procedural Slime / Tentacle Deformation Shader for Unity & VRChat
 
-![shader_preview](./preview.png)
 
 **LivingMesh_SlimeTentacle** is a custom Unity shader that transforms any mesh into  
 a **living, organic slime / tentacle-like surface** using procedural deformation and lighting.
