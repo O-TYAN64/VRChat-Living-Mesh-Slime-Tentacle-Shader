@@ -2,8 +2,6 @@
 ### Procedural Slime / Tentacle Deformation Shader for Unity & VRChat  
 ### Unity / VRChat 向け スライム・触手変形シェーダー
 
-![shader_preview](./preview.png)
-
 **LivingMesh_SlimeTentacle** は、  
 任意のメッシュを「生きているスライム・触手のように変形・発光させる」  
 Unity用カスタムシェーダーです。
